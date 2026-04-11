@@ -12,7 +12,7 @@ This project uses the **Euler-Cromer numerical integration method** to simulate 
 ### 📊 Simulation Result: Mars Orbit
 Below is a high-resolution simulation of a satellite at a 500km altitude around Mars. The code automatically calculates the required circular velocity (~2989 m/s) to maintain a stable trajectory.
 
-![Mars Orbit Simulation](Mars_Scientific_orbit.png)
+![Mars Orbit Simulation](Mars_Scientific_Orbit.png)
 
 ### 🛠️ Technical Implementation
 - **Language:** Python 3
