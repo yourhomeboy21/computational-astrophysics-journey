@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://google.com)](https://google.com)
 
-I am a Physics student documenting my transition into computational astrophysics through numerical simulations. My goal is to build a foundation in high-performance computing and celestial mechanics.
+I am a bscit student documenting my transition into computational astrophysics through numerical simulations. My goal is to build a foundation in high-performance computing and celestial mechanics.
 
 ---
 
