@@ -1,5 +1,5 @@
 # Computational Astrophysics Journey 🚀
-
+https://colab.research.google.com/github/[yourhomeboy21]/[comutational-astrophysics-jorneey]/blob/main/[Mars_Scientific_orbit].ipynb
 I am a Physics student documenting my transition into computational astrophysics through numerical simulations. My goal is to build a foundation in high-performance computing and celestial mechanics.
 
 ## Project 1: Planetary Orbit Simulator
