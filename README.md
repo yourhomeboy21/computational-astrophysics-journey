@@ -19,3 +19,37 @@ Below is a high-resolution simulation of a satellite at a 500km altitude around 
 - **Numerical Method:** Euler-Cromer Integration ($dt = 10s$)
 - **Key Libraries:** NumPy (Vector Math), Matplotlib (Scientific Visualization)
 -
+
+
+## Project 2: Star Formation - Gravitational Collapse
+
+N-body simulation of 10 particles collapsing under mutual gravity,
+simulating early star formation from a gas cloud.
+
+### Initial Cloud
+
+
+![Initial Cloud](initial_cloud.png)
+
+
+
+### After Gravitational Collapse
+
+
+![Gravitational Collapse](gravitational_collapse.png)
+
+
+
+### What I Learned
+so n body stimulation elevated my understanding of star formation.
+that how in intial cloud all the dust particles and gas were scattered and distant from each other, which were later pulled together 
+from the mutual gravity resulting in formation of gravitational collapse where most of gas and particles are clumpsed together 
+resulting in the formation of star .
+we also see some of the particles that do not participate in formnation,
+these particles later forms thier own seprate star system or either become rogue planets.
+
+
+### Physics Concepts
+- Gravitational collapse
+- N-body dynamics
+- Jeans Instability
