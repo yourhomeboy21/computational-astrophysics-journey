@@ -1,6 +1,6 @@
 # Computational Astrophysics Journey 🚀
 
-[![Open In Colab](https://google.com)](https://google.com)
+[![Open In Colab](https://colab.research.google.com/drive/1pTyPV0pgcyXKlXuMSvOg_IX_yTyewrxp?usp=sharing)](https://google.com)
 
 I am a bscit student documenting my transition into computational astrophysics through numerical simulations. My goal is to build a foundation in high-performance computing and celestial mechanics.
 
