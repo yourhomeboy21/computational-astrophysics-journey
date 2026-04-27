@@ -94,43 +94,63 @@ A total of 200 particles are initialized in a rotating disk configuration, and t
 * Methodology
 
 Particles are randomly distributed in a disk-like structure
+
 Each particle is assigned:
+
 Random mass
+
 Initial position
+
 Velocity for approximate circular motion
+
 Gravitational forces are calculated using Newton’s Law of Gravitation
+
 System evolves over 300 timesteps
+
 Positions and velocities are updated at each step
+
 To avoid numerical instability:
+
 A small softening factor (epsilon) is added to distance calculations
 
 * Physics Used
 
   -Every particle interacts with every other particle
+
   -Total interactions per step: 200 × 200 = 40,000
+
   -Total calculations ≈ 12 million over the simulation
 
 * Observations
 
   -Heavier particles attract nearby particles and form dense clusters
+
   -Lighter particles are often pushed outward or escape
+
   -The system begins to resemble basic galactic behavior
+
   -Emergent structures form without any predefined pattern
 
 * Visualization
 
 ! Blue/Purple →  (slow particles)
+
 ! Yellow/Orange →  (fast particles)
 
 * Tech Stack
 
    -Python
+
    -NumPy
+
    -Matplotlib / Visualization tools
 
 * Key Learnings
 
    -Understanding of N-body simulations
+
    -Practical use of gravitational physics
+
    -Handling numerical instability using epsilon
+
    -Observing emergent behavior in complex systems
