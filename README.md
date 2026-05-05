@@ -15,6 +15,17 @@ Below is a high-resolution simulation of a satellite at a 500km altitude around 
 
 ![Mars Orbit Simulation](Mars_Scientific_Orbit.png)
 
+###*WHAT I LEARNED 
+
+This project helped me to better understand numerical integration . In this  simulation we calculate satelite position step by step by using Newton's law of gravitation F = GMm/r².
+It uses Euler-Cromer method which update velocity first then uses that new velocity to update position making it more stable than Euler method and also instead of using pre calculated formula. It elevates our understanding on how orbital velocity is so important if it is too slow then the satelite crashes if too fast it escapes. This simulation uses mars as an example to represent this scenario and to elevate our understanding of orbital velocity. For mars the perfect circular orbital velocity at 500 km altitude is 2989 m/s. This project connect  gravity Directly to computational implementation 
+
+### Physics Concepts
+- Newton's Law of Gravitation F = GMm/r²
+- Euler-Cromer numerical integration
+- Circular orbital velocity
+- Kepler's laws of orbital motion
+
 ### 🛠️ Technical Implementation
 - **Language:** Python 3
 - **Numerical Method:** Euler-Cromer Integration ($dt = 10s$)
@@ -60,6 +71,8 @@ these particles later forms their own seprate star system or either become rogue
 - Jeans Instability
 
 ## Project 3: N-Body Galaxy Formation Simulation
+
+[View Notebook](galaxy_simulation.ipynb)
 
 200 particles simulated under mutual gravitational attraction,
 forming a galaxy-like structure from an initial rotating disk.
