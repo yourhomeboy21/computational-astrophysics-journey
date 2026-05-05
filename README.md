@@ -1,4 +1,4 @@
-9# Computational Astrophysics Journey 🚀
+# Computational Astrophysics Journey 🚀
 
 
 I am a BSC IT student documenting my transition into computational astrophysics through numerical simulations. My goal is to build a foundation in high-performance computing and celestial mechanics.
