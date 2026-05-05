@@ -26,8 +26,7 @@ Below is a high-resolution simulation of a satellite at a 500km altitude around 
 [
 
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-
-](https://colab.research.google.com/drive/1l6jWKq6-3o81_gFxj1xoGH4IELiX5iue?usp=sharing)
+(https://colab.research.google.com/drive/1l6jWKq6-3o81_gFxj1xoGH4IELiX5iue?usp=sharing)
 
 N-body simulation of 10 particles collapsing under mutual gravity,
 simulating early star formation from a gas cloud.
